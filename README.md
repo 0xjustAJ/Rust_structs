@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/Ovj4lxz.png" alt="Developer and Technical Writer Image" /></a>
+<a href="#"><img width="100%" height="auto" src="https://www.clearvoice.com/wp-content/uploads/2023/04/11.10.17_Hero_1360x646.jpg" alt="Developer and Technical Writer Image" /></a>
 
 <h1 align="center">Hi 👋, I'm Ajayi Damola Ramon</h1>
 <h3 align="center">A Smart Contract Developer, Data Analyst, and Technical Writer</h3>
@@ -8,7 +8,7 @@
 <p>- 🔭 Currently working with Rust, Go, and R programming language to solve complex problems in blockchain and data science.</p>
 <p>- 🌱 I’m a graduate of Statistics, a technical writer, data analyst, and Rust developer.</p>
 <p>- 👯 I’m looking to collaborate on innovative and challenging code projects.</p>
-<p>- 📫 How to reach me: <a href="mailto:Agantemboy@gmail.com">Agantemboy@gmail.com</a></p>
+<p>- 📫 How to reach me: <a href="mailto:ajayidamola4@gmail.com">Agantemboy@gmail.com</a></p>
 <p>- ⚡ Fun fact: I love watching movies, playing games, traveling, and building exciting projects.</p>
 
 <h3 align="left">Connect with me:</h3>
